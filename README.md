@@ -4,6 +4,9 @@
 
 HTML Structure Checker Utility Overview This JavaScript utility helps you check the structure of an HTML document to ensure it meets certain SEO and accessibility standards. It verifies the presence of essential elements like canonical URLs, heading tags, meta tags, and more. Results are logged to the browser console in list format for easy review.
 
+![Screenshot of checkHTMLStructure.js Results are logged to the browser console in list format](https://github.com/user-attachments/assets/c8ef443c-3105-4d01-9506-fca137b47ff5)
+
+
 ## Features
 
 - **Canonical URL Check:** Verifies if the canonical URL is present.
