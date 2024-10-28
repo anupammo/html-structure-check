@@ -1,3 +1,10 @@
+/*!
+  * checkHTMLStructure v1.0.0 (https://getbootstrap.com/)
+  * Author website (https://anupammondal.in/)
+  * Copyright 2024-2030 The Anupam Mondal (https://github.com/anupammo)
+  * Licensed under GNU General Public License v3
+  */
+
 function checkHTMLStructure() {
     // Check for canonical URL
     const canonicalURL = document.querySelector('link[rel="canonical"]') ? 'Canonical URL exists' : 'Canonical URL does not exist';
