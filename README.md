@@ -25,6 +25,12 @@ HTML Structure Checker Utility Overview This JavaScript utility helps you check 
 - **Favicon Check:** Confirms the presence of a favicon.
 
 ## Usage
+### CDN 
+**Use CDN** with **jsDelivr** is a free, fast, and reliable Open Source CDN 
+> [!IMPORTANT]
+> [jsDelivr CDN](https://cdn.jsdelivr.net/gh/anupammo/html-structure-check@main/checkHTMLStructure.js)
+
+### Manual
 
 1. Include the `checkHTMLStructure.js` file in your HTML document.
 
