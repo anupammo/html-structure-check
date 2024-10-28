@@ -26,6 +26,10 @@ Call the checkHTMLStructure() function to perform the checks.
 
 Review the results in the browser console. 
 
+
+![image](https://github.com/user-attachments/assets/a4ec4ed3-94b5-44af-9220-d4735b04c38a)
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,6 +47,10 @@ Review the results in the browser console.
 </html>
 
 Example Output 
+
+
+![image](https://github.com/user-attachments/assets/b1091abe-1563-45fd-8a7c-6951e876bbcf)
+
 
 Canonical URL exists
 H1 tag exists
