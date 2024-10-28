@@ -1,10 +1,10 @@
 # html-structure-check 
 
-##Overview
+## Overview
 
 HTML Structure Checker Utility Overview This JavaScript utility helps you check the structure of an HTML document to ensure it meets certain SEO and accessibility standards. It verifies the presence of essential elements like canonical URLs, heading tags, meta tags, and more. Results are logged to the browser console in list format for easy review.
 
-##Features
+## Features
 
 - **Canonical URL Check:** Verifies if the canonical URL is present.
 
@@ -24,7 +24,7 @@ HTML Structure Checker Utility Overview This JavaScript utility helps you check 
 
 - **Favicon Check:** Confirms the presence of a favicon.
 
-##Usage
+## Usage
 
 1. Include the `checkHTMLStructure.js` file in your HTML document.
 
@@ -36,14 +36,14 @@ HTML Structure Checker Utility Overview This JavaScript utility helps you check 
 ![image](https://github.com/user-attachments/assets/a4ec4ed3-94b5-44af-9220-d4735b04c38a)
 
 
-##Example Output 
+## Example Output 
 
 
 ![image](https://github.com/user-attachments/assets/b1091abe-1563-45fd-8a7c-6951e876bbcf)
 
 
-##Contributing
+## Contributing
 Feel free to fork this repository, submit issues, and make pull requests to improve this utility.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
