@@ -32,6 +32,10 @@ HTML Structure Checker Utility Overview This JavaScript utility helps you check 
  
 > [!IMPORTANT] 
 > [`https://cdn.jsdelivr.net/gh/anupammo/html-structure-check@main/checkHTMLStructure.js`](https://cdn.jsdelivr.net/gh/anupammo/html-structure-check@main/checkHTMLStructure.js)
+> ```
+> <!-- Include the CDN -->
+> <script src="https://cdn.jsdelivr.net/gh/anupammo/html-structure-check@main/checkHTMLStructure.js"></script>
+> ```
 
 ### Manual
 
